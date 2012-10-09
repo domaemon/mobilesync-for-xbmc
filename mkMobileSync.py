@@ -97,4 +97,3 @@ class Operate(object):
 #      mkdir the destination
 #    else
 #      cp/mv the files to the destination
-
